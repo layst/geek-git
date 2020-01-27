@@ -1,5 +1,0 @@
-- print("hello world!");
-- Js-work;
-- fix =:^_^:=;
-- bye;
-- new repository;
